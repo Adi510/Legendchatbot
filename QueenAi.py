@@ -38,16 +38,16 @@ async def chatbot(client, message):
     umm = await message.reply_sticker("CAACAgUAAxkBAALyX2QqjZ4PYInIurslUHkSeoHDtslIAAKpCAACeURZVXSsBGaFz_JTLwQ")
     await asyncio.sleep(2)
     await message.reply_photo(
-        photo=f"https://te.legra.ph/file/a406783ab421e5c53ab13.jpg",
+        photo=f"https://telegra.ph//file/72103036ea45a3e028d6f.jpg",
         caption=f"""━━━━━━━━━━━━━━━━━━━━━━━━
 👻 A ᴘᴏᴡᴇʀғᴜʟ ᴀɪ ʙᴏᴛ
-ᴏғ ♻️ 𝐌𝐑 𝐀𝐘𝐔𝐒𝐇 ♥️
+ᴏғ ♻️ 𝐌𝐑 𝐀𝐋𝐎𝐍𝐄 ♥️
 ━━━━━━━━━━━━━━━━━
 ᴅᴀᴛᴀʙᴀsᴇ ʙᴀᴄᴋᴇɴᴅ ʙᴏᴛ ғᴏʀ ᴛɢ...
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ ᴄʀᴇᴀᴛᴇʀ [𝐌𝐑 𝐀𝐘𝐔𝐒𝐇](https://t.me/Venom_bolte_public)
-┣★ ʙᴏᴛ ᴜᴘᴅᴀᴛᴇs [ᴏᴜʀ ᴏᴛʜᴇʀ ʙᴏᴛs](https://t.me/Heroku_Dyno)
-┣★ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ [ᴄʜᴀᴛ](https://t.me/Its_Venom_family)
+┣★ ᴄʀᴇᴀᴛᴇʀ [𝐌𝐑 𝐀𝐋𝐎𝐍𝐄](https://t.me/ll_ITZ_ALONE_ll)
+┣★ ʙᴏᴛ ᴜᴘᴅᴀᴛᴇs [ᴏᴜʀ ᴏᴛʜᴇʀ ʙᴏᴛs](https://t.me/AloneXAssociation)
+┣★ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ [ᴄʜᴀᴛ](https://t.me/AlonesHeaven)
 ┗━━━━━━━━━━━━━━━━━┛
 🥵
 IF HAVE ANY QUESTION THEN CONTACT » TO » MY » [OWNER] @Venom_bolte_public""",
