@@ -35,19 +35,19 @@ async def chatbot(client, message):
     await queenai.edit("**ɪ ᴀᴍ ᴅᴏɪɴɢ ᴍʏ ʟᴏᴠᴇ 💕**")
     await queenai.delete()
     await asyncio.sleep(2)
-    umm = await message.reply_sticker("CAACAgUAAxkBAALyX2QqjZ4PYInIurslUHkSeoHDtslIAAKpCAACeURZVXSsBGaFz_JTLwQ")
+    umm = await message.reply_sticker("")
     await asyncio.sleep(2)
     await message.reply_photo(
-        photo=f"https://telegra.ph//file/72103036ea45a3e028d6f.jpg",
+        photo=f"https://telegra.ph/file/3b9730e0042579e85c243.jpg",
         caption=f"""━━━━━━━━━━━━━━━━━━━━━━━━
 👻 A ᴘᴏᴡᴇʀғᴜʟ ᴀɪ ʙᴏᴛ
-ᴏғ ♻️ 𝐌𝐑 𝐀𝐋𝐎𝐍𝐄 ♥️
+ᴏғ ♻️ ᴛᴀɪᴛᴀɴ ♥️
 ━━━━━━━━━━━━━━━━━
 ᴅᴀᴛᴀʙᴀsᴇ ʙᴀᴄᴋᴇɴᴅ ʙᴏᴛ ғᴏʀ ᴛɢ...
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ ᴄʀᴇᴀᴛᴇʀ [𝐌𝐑 𝐀𝐋𝐎𝐍𝐄](https://t.me/ll_ITZ_ALONE_ll)
-┣★ ʙᴏᴛ ᴜᴘᴅᴀᴛᴇs [ᴏᴜʀ ᴏᴛʜᴇʀ ʙᴏᴛs](https://t.me/AloneXAssociation)
-┣★ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ [ᴄʜᴀᴛ](https://t.me/AlonesHeaven)
+┣★ ᴄʀᴇᴀᴛᴇʀ [ᴛᴀɪᴛᴀɴ](https://t.me/taitangamerz
+┣★ ʙᴏᴛ ᴜᴘᴅᴀᴛᴇs [ᴏᴜʀ ᴏᴛʜᴇʀ ʙᴏᴛs](https://t.me/anonxmusic1_bot)
+┣★ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ [ᴄʜᴀᴛ](https://t.me/timepassgroup01)
 ┗━━━━━━━━━━━━━━━━━┛
 🥵
 IF HAVE ANY QUESTION THEN CONTACT » TO » MY » [OWNER] @Venom_bolte_public""",
