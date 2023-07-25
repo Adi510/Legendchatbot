@@ -1,17 +1,17 @@
 ━━━━━━━━━━━━━━━━━━━━
-**ǫᴜᴇᴇɴ ᴄʜᴀᴛʙᴏᴛ**
+**ᴀʟᴏɴᴇ ɪᴅ ᴄʜᴀᴛʙᴏᴛ**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <img src="https://te.legra.ph/file/a406783ab421e5c53ab13.jpg">
+  <img src="https://telegra.ph//file/9e8ce3092848a1bc5d9d6.jpg">
 </p>
 ━━━━━━━━━━━━━━━━━━━━
-**ǫᴜᴇᴇɴ ᴄʜᴀᴛʙᴏᴛ**
+**ᴀʟᴏɴᴇ ɪᴅ ᴄʜᴀᴛʙᴏᴛ**
 
 ## ʀᴇᴘᴏ sᴛᴀᴛs
-<a href="https://github.com/Itzvenomo/Queen"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Itzvenomo&repo=Queen&theme=chartreuse-dark"></a>
+<a href="https://github.com/TeamAloneOp/AloneXIdChatbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Itzvenomo&repo=Alone&theme=chartreuse-dark"></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -30,7 +30,7 @@
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Itzvenomo/Queen"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-skyblue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TeamAloneOp/AloneXIdChatbot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-skyblue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 </a>
 </p>
 </details>
@@ -47,8 +47,8 @@
 
 ```console
 $ tmux
-$ git clone https://github.com/Itzvenomo/Queen
-$ cd Queen 
+$ git clone https://github.com/TeamAloneOp/AloneXIdChatbot
+$ cd Alone 
 $ pip3 install -U -r requirements.txt
 
 
@@ -56,7 +56,7 @@ $ pip3 install -U -r requirements.txt
 ```
  
 <h3 align="center"> 
-    ᴇᴅɪᴛ <b>QueenAi.py</b> ᴡɪᴛʜ ɪɴ ʏᴏᴜʀ ᴏᴡɴ ᴠᴀʟᴜᴇs
+    ᴇᴅɪᴛ <b>AloneAi.py</b> ᴡɪᴛʜ ɪɴ ʏᴏᴜʀ ᴏᴡɴ ᴠᴀʟᴜᴇs
 </h3>
 
 <h2 align="center"> 
@@ -64,7 +64,7 @@ $ pip3 install -U -r requirements.txt
 </h2>
 
 ```console
-$ python3 QueenAi.py , nohup python3 QueenAi.py &
+$ python3 AloneAi.py , nohup python3 AloneAi.py &
 ```
 </pre>
 </p>
@@ -73,7 +73,7 @@ $ python3 QueenAi.py , nohup python3 QueenAi.py &
 
   ━━━━━━━━━━━━━━━━━━━━
 ━━━━━━━━━━━━━━━━━━━━
-**ǫᴜᴇᴇɴ ᴄʜᴀᴛʙᴏᴛ**
+**ᴀʟᴏɴᴇ ɪᴅ ᴄʜᴀᴛʙᴏᴛ**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
